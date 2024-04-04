@@ -34,11 +34,11 @@ $$
 ---
 Solve this expression:
 
-### Solution
-
 $$
 81^{\sin^2 x} + 81^{\cos^2 x} = 30
 $$
+
+### Solution
 
 We know that $\sin^2 x + \cos^2 x = 1$. Using this identity, we can rewrite the equation as:
 
