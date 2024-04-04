@@ -12,7 +12,7 @@ $$
 \end{array}\right)
 $$
 
-is multiplied by the weight matrix **W**:
+is multiplied by the weight matrix _**W**_:
 
 $$
 \left(\begin{array}{cc}
@@ -41,7 +41,7 @@ $$
 \end{array}\right)
 $$
 
-and then added with the bias vector **b**:
+and then added with the bias vector _**b**_:
 
 $$
 \left(\begin{array}{cc}
